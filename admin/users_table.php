@@ -28,7 +28,7 @@ if ($status == false) {
 
 <body>
     <div class="header">
-        <a href="signUp.php">ユーザー登録</a>
+        <a href="../signUp.php">ユーザー登録</a>
         <a href="admin.php">管理画面へ</a>
     </div>
     <div class="table">
